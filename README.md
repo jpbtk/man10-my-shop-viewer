@@ -1,0 +1,1 @@
+# man10-my-shop-viewer
